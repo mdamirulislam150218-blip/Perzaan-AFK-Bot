@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "friends-wzeZ.aternos.me:54177",
+    "ip": "friends-wzeZ.aternos.me",
     "port": 54177,
     "version": "1.21.1"
   },
